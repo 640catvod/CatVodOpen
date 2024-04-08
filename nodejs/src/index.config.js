@@ -4,7 +4,7 @@ export default {
             bbbb: 'aaaaa',
         },
     },
-    meta: {
+    doll: {
         key: 'doll',
             name: '玩偶',
             type: 3,
