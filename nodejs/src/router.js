@@ -7,7 +7,7 @@ import copymanga from './spider/book/copymanga.js';
 import ffm3u8 from './spider/video/ffm3u8.js';
 import doll from './spider/video/doll.js';
 
-const spiders = [kunyu77, kkys, ffm3u8, push, alist, _13bqg, doll,copymanga];
+const spiders = [kunyu77, kkys, doll, ffm3u8, push, alist, _13bqg, copymanga];
 const spiderPrefix = '/spider';
 
 /**
